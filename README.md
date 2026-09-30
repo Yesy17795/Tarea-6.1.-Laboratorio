@@ -26,3 +26,5 @@ El proyecto incluye ejemplos de:
 -script.js
 -images
 -README.md
+## Enlace del proyecto
+https://yesy17795.github.io/Tarea-6.1.-Laboratorio/
