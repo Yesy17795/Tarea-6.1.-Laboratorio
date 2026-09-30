@@ -40,3 +40,11 @@ button {
 button:hover {
     opacity: 0.8;
 }
+
+img {
+    display: block;
+    width: 400px;
+    max-width: 90%;
+    height: auto;
+    margin:  20px auto;
+}
